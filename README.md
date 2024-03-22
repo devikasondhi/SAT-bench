@@ -1,3 +1,4 @@
+This is the test benchmark.
 # SAT-bench, small utilities about SAT benchmark
 
 - benchm  -- for running SAT Competition
